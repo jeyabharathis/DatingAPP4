@@ -1,0 +1,14 @@
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\bin\Debug\netcoreapp2.2\DatingAPP4.API.deps.json
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\bin\Debug\netcoreapp2.2\DatingAPP4.API.runtimeconfig.json
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\bin\Debug\netcoreapp2.2\DatingAPP4.API.runtimeconfig.dev.json
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\bin\Debug\netcoreapp2.2\DatingAPP4.API.dll
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\bin\Debug\netcoreapp2.2\DatingAPP4.API.pdb
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.csprojAssemblyReference.cache
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.csproj.CoreCompileInputs.cache
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.RazorAssemblyInfo.cache
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.RazorAssemblyInfo.cs
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.AssemblyInfoInputs.cache
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.AssemblyInfo.cs
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.RazorTargetAssemblyInfo.cache
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.dll
+C:\Users\Jeya\DatingAPP4\DatingAPP4.API\obj\Debug\netcoreapp2.2\DatingAPP4.API.pdb
